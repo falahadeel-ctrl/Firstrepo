@@ -1,0 +1,2 @@
+hello 
+its firday today
